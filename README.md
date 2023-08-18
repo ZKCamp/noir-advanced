@@ -11,7 +11,9 @@ This repo contains  ode used during ZKCamp Noir Advanced lecture
 - ACIR
     - Addition
     - Multiplication
-    - Division
+    - Division  
+        - Unconstrained Functions (Brillig)
     - Assert
+    - Range
     - Blackbox Functions
-    - Unconstrained Functions (Brillig)
+    

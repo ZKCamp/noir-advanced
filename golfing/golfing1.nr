@@ -8,7 +8,7 @@ fn main(x: Field) {
 // Optimized
 // Gates - 10, Opcodes - 10
 // fn main(x: Field) {
-//     assert(x * (x - 1) * (x - 2) * (x - 3) == 0);
+//     assert(x * (x - 1) * (x - 2) * (x - 3)*(x-4) == 0);
 // }
 
 
