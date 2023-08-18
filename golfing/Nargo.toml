@@ -1,6 +1,6 @@
 [package]
 name = "advanced_golfing"
-entry = "main.nr"
+entry = "golfing1.nr"
 type = "bin"
 authors = [""]
 compiler_version = "0.10.3"
